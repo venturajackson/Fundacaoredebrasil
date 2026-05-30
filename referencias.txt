@@ -1,0 +1,101 @@
+Pesquisa e referencias - Fundacao Rede Brasil como fundacao de apoio universitario
+Data da pesquisa: 30/05/2026
+
+1. Reposicionamento solicitado
+- A Fundacao Rede Brasil deve ser apresentada como fundacao de apoio universitario.
+- O site deve se aproximar da operacao de fundacoes que apoiam ensino, pesquisa, extensao, desenvolvimento institucional, ciencia, tecnologia e inovacao.
+- A referencia principal solicitada foi a FAPUR: https://www.fapur.org.br/
+- A logo esta em fotos/logo-fundacao-rede-brasil.jpeg. A paleta visual observada combina azul-marinho, verde e dourado.
+
+2. Dados publicos localizados sobre a Fundacao Rede Brasil
+- Razao social: Fundacao Rede Brasil
+- CNPJ: 13.407.204/0001-93
+- Natureza juridica: Fundacao Privada
+- Data de abertura: 23/02/2011
+- Situacao cadastral em bases publicas: Ativa
+- Sede: Rua Prefeito Jose Maria de Brito, 251, Monte Serrat, Itaguai/RJ, CEP 23810-720
+- CNAE principal: 72.20-7-00 - Pesquisa e desenvolvimento experimental em ciencias sociais e humanas
+- CNAEs secundarios relevantes ao novo posicionamento: apoio a educacao, pesquisa em ciencias fisicas e naturais, atividades profissionais/tecnicas, defesa de direitos sociais, cultura e arte, apoio a gestao de saude.
+- Fontes:
+  https://cnpj.biz/13407204000193
+  https://www.econodata.com.br/consulta-empresa/13407204000193-fundacao-rede-brasil
+
+3. Referencia principal - FAPUR
+- Site: https://www.fapur.org.br/
+- Nome: Fundacao de Apoio a Pesquisa Cientifica e Tecnologica da UFRRJ.
+- Elementos importantes observados:
+  - Menu simples: Pagina Inicial, Sobre nos, Codigo de Etica, Fale Conosco.
+  - Area de servicos segmentada por publico: Coordenador, Processos de Compra, Transparencia.
+  - Portais externos para coordenador, fornecedor e transparencia.
+  - Transparencia com portal, relatorios de gestao, avaliacao de desempenho, tabela de projetos, contratos e emendas parlamentares.
+  - Noticias com destaque para processos de compra e projetos apoiados.
+  - Contato institucional com setores: Presidencia, Diretoria, Operacoes, Ouvidoria, Projetos, Financeiro, Fiscal, Patrimonio, Prestacao de Contas, Contratos, Compras, Licitacao, TI, Protocolo.
+- Implicacao para o site da Fundacao Rede Brasil:
+  - O site deve ter foco operacional, nao apenas institucional.
+  - Priorizar coordenadores, fornecedores, transparencia e contato setorial.
+
+4. FAU - Fundacao de Apoio Universitario
+- Site: https://fau.org.br/
+- Elementos importantes observados:
+  - Hero com mensagem "Gestao e inovacao a servico do conhecimento".
+  - Menu robusto: Institucional, Solucoes em Projetos, Sistemas, Transparencia, Noticias, Cursos e Atendimento.
+  - Beneficios para pesquisadores e financiadores: execucao de projetos, captacao de recursos, compras e importacoes, gestao da transparencia, talentos humanos, tecnologia da informacao, integridade e prestacao de contas.
+  - Transparencia inclui compras/licitações, acesso a informacao, programa de integridade, demonstrativos contabeis, relatorios de gestao e regularidade fiscal.
+  - Links para area do coordenador, area do colaborador, gestao de eventos, cursos e atendimento.
+- Implicacao:
+  - A Fundacao Rede Brasil precisa apresentar uma grade clara de solucoes em projetos e sistemas/portais.
+
+5. FUSP - Fundacao de Apoio a Universidade de Sao Paulo
+- Site: https://fusp.org.br/a-fusp
+- Elementos importantes observados:
+  - Define fundacao de apoio como entidade privada do terceiro setor, sem finalidade lucrativa, que apoia docentes e a universidade.
+  - Apresenta a fundacao como interveniente entre docente/universidade e financiador.
+  - Lista funcoes: administrar projetos, gerir bolsas, celebrar acordos e contratos, apoiar juridicamente docentes.
+  - Apresenta governanca: Conselho Curador, Conselho Fiscal e Diretoria.
+  - Possui manuais e procedimentos para abertura de projetos, compras, contratos PJ, autonomos, bolsas, diarias, reembolsos e doacao de equipamentos.
+  - Possui transparencia, compliance, canal de escuta e portais para coordenadores, empregados, fornecedores e editais.
+- Implicacao:
+  - O site deve explicar "o que e", "para que serve" e "como serve", com foco no ciclo de vida do projeto.
+
+6. FAIFCE
+- Site: https://faifce.ifce.edu.br/a-fundacao/
+- Elementos importantes observados:
+  - Apresenta-se como fundacao de apoio, de direito privado, sem fins lucrativos, com autonomia administrativa e financeira.
+  - Apoia pesquisa, ensino, extensao e desenvolvimento institucional.
+  - Declara observancia da Lei 8.958/94.
+  - Menu inclui solucoes, portais, espaco do coordenador, estagiario/bolsista, fornecedor, colaborador, portal de compra, documentos, transparencia, FAQ, contato, ouvidoria e trabalhe conosco.
+  - Missao: apoiar instituicoes apoiadas e atuar como elo empreendedor da interacao academia-empresa.
+- Implicacao:
+  - O site da Fundacao Rede Brasil deve ter linguagem clara sobre apoio a ICTs/universidades e conexao academia-empresa.
+
+7. Fundacoes UFPel
+- Site: https://fundacoesufpel.com.br/
+- Elementos importantes observados:
+  - Apresenta fundacoes de apoio vinculadas a universidade.
+  - Descreve apoio na execucao de programas e atividades, prestacao de servicos tecnicos, cientificos, culturais, de pesquisa e assistencia.
+  - Cita convenios com entidades publicas ou privadas e programas de interesse mutuo.
+- Implicacao:
+  - Conteudo deve incluir convenios, programas, servicos tecnicos e apoio a atividades universitarias.
+
+8. Referencias normativas e institucionais recorrentes
+- IFSP informa que fundacoes de apoio devem ter homologacao institucional e credenciamento junto ao GAT/MCTI/MEC para atuar em parceria com IFES/ICT, e cita a Lei 8.958/1994, Decreto 7.423/2010 e Portaria Interministerial 191/2012.
+- Fonte: https://ifsp.edu.br/index.php/prestacao-de-contas/fundacoes
+- Implicacao:
+  - O site deve ter secao de Documentos e Transparencia com estatuto, credenciamento/homologacao quando houver, relatorios, contratos, regularidade fiscal e normas internas.
+
+9. Estrutura recomendada para o site
+- Inicio: hero institucional com foco em gestao de projetos academicos.
+- A Fundacao: definicao, papel, dados publicos e governanca.
+- Solucoes: gestao de projetos, captacao, compras e contratacoes, bolsas/RH, cursos e eventos, prestacao de contas.
+- Espaco do Coordenador: abertura de projeto, manuais, formularios, solicitacoes, acompanhamento financeiro.
+- Compras e Fornecedores: editais, cotacoes, resultados, cadastro, regulamento de compras.
+- Portais: coordenador, fornecedor, colaborador, transparencia, atendimento.
+- Transparencia: projetos, contratos, relatorios, demonstrativos, estatuto, codigo de etica, regularidade fiscal, ouvidoria.
+- Noticias: processos de compra, projetos apoiados, comunicados institucionais.
+- Contato: atendimento por departamento.
+
+10. Cuidados antes de publicacao oficial
+- Confirmar instituicoes apoiadas, credenciamentos/homologacoes e instrumentos legais especificos da Fundacao Rede Brasil.
+- Validar texto juridico com a diretoria ou assessoria responsavel.
+- Inserir apenas dados oficiais de equipe, e-mails, telefones, relatorios e documentos.
+- Substituir chamadas-modelo por links reais quando os portais existirem.
